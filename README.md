@@ -4,7 +4,7 @@
 <b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Physical Engineering. I also developed a strong interest in computer science and programming throughout the course. As a result, I began studying independently, starting in the field of cybersecurity. I recently completed the 'Google Cybersecurity Certification' and plan to pursue many more certifications.</b>
 
 <h2>🎓 Education:</h2>
-<b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho, with an average grade of 17.3, which is giving me a foundation in electronics, modern physics, programming and mathematics.</b>
+<b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho, with an average grade of 17.3, which is giving me a foundation in modern physics, programming, electronics and mathematics.</b>
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Apply filters to SQL queries</b>
