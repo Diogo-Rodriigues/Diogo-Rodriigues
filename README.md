@@ -1,28 +1,21 @@
 <h1>Hi, I'm Diogo Rodrigues! <br/>Engineering Physics</a> | <a>Cybersecurity and Software Development</a></h1>
 
 <h2>🙋‍♂️ About me:</h2>
-<b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Physical Engineering, which is giving me a foundation in electronics, modern physics, programming and mathematics. I also developed a strong interest in computer science and programming throughout the course. As a result, I began studying independently, starting in the field of cybersecurity. I recently completed the 'Google Cybersecurity Certification' and plan to pursue many more certifications, reflecting my enthusiasm and commitment to continuously enhance my skills to enrich my professional profile.</b>
+<b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Physical Engineering. I also developed a strong interest in computer science and programming throughout the course. As a result, I began studying independently, starting in the field of cybersecurity. I recently completed the 'Google Cybersecurity Certification' and plan to pursue many more certifications.</b>
 
 <h2>🎓 Education:</h2>
-<b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho with an average grade of 17.3. </b>
+<b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho, with an average grade of 17.3, which is giving me a foundation in electronics, modern physics, programming and mathematics.</b>
+<h2>👨‍💻 Personal Projects:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Apply filters to SQL queries</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>File permissions in Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Update a file through a Python algorithm</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 💼Skills:</h2>
 - <b>Python</b>
