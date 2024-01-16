@@ -1,6 +1,12 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Diogo Rodrigues! <br/>Engineering Physics</a> | <a>Cybersecurity and Software Development</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🙋‍♂️ About me:</h2>
+<b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Physical Engineering, which is giving me a foundation in electronics, modern physics, programming and mathematics. I also developed a strong interest in computer science and programming throughout the course. As a result, I began studying independently, starting in the field of cybersecurity. I recently completed the 'Google Cybersecurity Certification' and plan to pursue many more certifications, reflecting my enthusiasm and commitment to continuously enhance my skills to enrich my professional profile.</b>
+
+<h2>🎓 Education:</h2>
+<b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho with an average grade of 17.3. </b>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,14 +24,21 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+<h2> 💼Skills:</h2>
+- <b>Python</b>
+- <b>C</b>
+- <b>Data Structures and Algorithms</b>
+- <b>SQL</b>
+- <b>Haskell</b>
+- <b>Linux</b>
+- <b>Data Structures and Algorithms</b>
+- <b>Wireshark</b>
+- <b>Tcpdump</b>
+- <b>Eletronics</b>
+- <b>Data Structures and Algorithms</b>
+- <b>Data Structures and Algorithms</b>
+- <b>Excellent communication, organizational, and problem-solving skills.
+</b>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
