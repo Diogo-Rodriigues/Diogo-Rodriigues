@@ -7,16 +7,9 @@
 <b>I am currently in the 2nd year of the Bachelor's degree in Engineering Physics at the University of Minho, with an average grade of 17.3, which is giving me a foundation in modern physics, programming, electronics and mathematics.</b>
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Apply filters to SQL queries</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>File permissions in Linux</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Update a file through a Python algorithm</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+- <b>[Apply filters to SQL queries](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2b3a7db8-f4e4-45c4-800d-32528d9d0048)</b>
+- <b>[File permissions in Linux](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5901f252-e9d2-4ded-94ab-f24ba74824d4)</b>
+- <b>[Update a file through a Python algorithm](https://acrobat.adobe.com/id/urn:aaid:sc:EU:55fb65b7-1399-40d3-bac4-85a5ab7e8838)</b>
 <h2> 💼Skills:</h2>
 - <b>Python</b>
 - <b>C</b>
