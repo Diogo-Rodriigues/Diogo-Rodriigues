@@ -33,4 +33,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/diogo--rodrigues
