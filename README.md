@@ -33,4 +33,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/diogo--rodrigues
+[linkedin]: https://www.linkedin.com/in/diogo--rodrigues/
