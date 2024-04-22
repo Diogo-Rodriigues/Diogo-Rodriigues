@@ -18,7 +18,7 @@
 - <b>Data Structures and Algorithms</b>
 - <b>SQL</b>
 - <b>Haskell</b>
-- <b>Linux</b>
+- <b>Development operations (Linux and Git)</b>
 - <b>Network Protocols</b>
 - <b>Wireshark</b>
 - <b>Tcpdump</b>
