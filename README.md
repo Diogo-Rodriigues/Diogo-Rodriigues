@@ -30,16 +30,7 @@
 - Django / Flask
 - ASP.NET Core
 - Node.js
-
-### UI Frameworks
-
 - React
-
-### Areas
-
-- Front-end Development
-- Back-end Development
-- Machine Learning
 </b>
 <br>
 <br>
