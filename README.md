@@ -13,21 +13,32 @@
 - <b>[File permissions in Linux](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5901f252-e9d2-4ded-94ab-f24ba74824d4) | Linux</b>
 - <b>[Update a file through a Python algorithm](https://acrobat.adobe.com/id/urn:aaid:sc:EU:55fb65b7-1399-40d3-bac4-85a5ab7e8838) | Python</b>
 <h2> 💼Skills:</h2>
-- <b>Python</b>
-- <b>C/C++</b>
-- <b>Data Structures and Algorithms</b>
-- <b>SQL</b>
-- <b>Haskell</b>
-- <b>HTML and CSS</b>
-- <b>JavaScript</b>
-- <b>Development operations (Linux, Git and Jira)</b>
-- <b>Parallel computing/Performance engineering</b>
-- <b>Network Protocols</b>
-- <b>Wireshark</b>
-- <b>Tcpdump</b>
-- <b>Eletronics</b>
-- <b>Modeling Physical Phenomena in the laboratory</b>
-- <b>Excellent communication, organizational, and problem-solving skills.
+
+### Programming Languages 
+- Python
+- C / C++
+- C#
+- Java
+- JavaScript
+- Haskell
+- HTML / CSS
+- SQL
+
+### Frameworks
+
+- Django / Flask
+- ASP.NET Core
+- Node.js
+
+### UI Frameworks
+
+- React
+
+### Areas
+
+- Front-end Development
+- Back-end Development
+- Machine Learning
 </b>
 <br>
 <br>
