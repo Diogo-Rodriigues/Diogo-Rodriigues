@@ -19,7 +19,6 @@
 - Python
 - C / C++
 - C#
-- Java
 - JavaScript
 - Haskell
 - HTML / CSS
