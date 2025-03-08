@@ -1,6 +1,6 @@
 <h1>Hi, I'm Diogo Rodrigues! <br/>Software Development/AI & ML/Cybersecurity/HPC/Eletronics</a>
 
-<h2>🙋‍♂️ About me:</h2>
+<h2>🙋‍♂️ About meee:</h2>
 <p><b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Engineering Physics. I am currently in my last year with an average of 16 and throughout the course, I developed a passion for computer science and programming and since then, I have focused heavily on areas such as software development, cybersecurity, and AI/ML. </b></p>
 <p><b>I did some personal software development projects, completed the 'Google Cybersecurity Certification' and joined my university's CTF team having done a lot of CTF's with write-ups and more recently I had the opportunity to join a LIP project in partnership with DGT for classifying very high spatial resolution images of mainland Portugal using machine learning techniques.</b></p>
 
