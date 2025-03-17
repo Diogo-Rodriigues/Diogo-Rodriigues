@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Diogo Rodrigues!<br>Software Development/AI & ML/Cybersecurity/HPC/Eletronics</h2>
+<h2 align="left">Hi, I'm Diogo Rodrigues!<br>Software Engineer/AI & ML/Cybersecurity/HPC/Eletronics</h2>
 
 ###
 
