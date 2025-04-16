@@ -7,10 +7,10 @@
 
 <h2>💼 Experience:</h2>
 <p><b>Recently I had the opportunity to join a LIP project in partnership with DGT for classifying very high spatial resolution images of mainland Portugal using machine learning techniques.</b></p>
-<p><b>I did some personal software development projects, completed the 'Google Cybersecurity Certification' and joined my university's CTF team having done a lot of CTF's with write-ups.</b></p>
+<p><b>I did some personal software development projects, completed the 'Google Cybersecurity Certification' and joined my university's CTF team having done a lot of CTF's and discussions on cybersecurity.</b></p>
 
 <h2>🎓 Education:</h2>
-<b>I am currently in my last year with an average of 16 and throughout the course, I learned Python and its libraries for scientific calculations and data manipulation, C/C++, HPC with multithreading and GPU programming with CUDA, Data Structures and Algorithms, Haskell, Physics, Electronics, Mathematics, and above all I learned how to think.</b>
+<b>I am currently in my last year with an average of 16 and throughout the course, I learned Python and its libraries for scientific calculations and data manipulation, C/C++, HPC with multithreading and GPU programming with CUDA, Data Structures and Algorithms, Haskell, computer architectures, Physics, Electronics, Mathematics, and above all I learned how to think.</b>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
