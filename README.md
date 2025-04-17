@@ -14,11 +14,17 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>[Analyze Network Traffic with TCPDump](https://acrobat.adobe.com/id/urn:aaid:sc:EU:6ab48a8c-135b-45ee-8919-f341464a38c0) | TCPDump, Linux, Network Protocols</b>
-- <b>[Detect and analyze TCP/IP traffic with Wireshark](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4979c1de-5622-4f5d-a581-22c3a03b809b) | Wireshark, Linux, Network Protocols</b>
-- <b>[Apply filters to SQL queries](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2b3a7db8-f4e4-45c4-800d-32528d9d0048) | SQL</b>
-- <b>[File permissions in Linux](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5901f252-e9d2-4ded-94ab-f24ba74824d4) | Linux</b>
-- <b>[Update a file through a Python algorithm](https://acrobat.adobe.com/id/urn:aaid:sc:EU:55fb65b7-1399-40d3-bac4-85a5ab7e8838) | Python</b>
+| Software development | |
+| -- | :--: |
+| StockSphere | [Project](https://github.com/Diogo-Rodriigues/StockSphere) |
+| My Electronic Store | [Project](https://github.com/Diogo-Rodriigues/My_Eletronic_Store) |
+| Library Management System | [Project](https://github.com/Diogo-Rodriigues/LibraryManagementSystem-Cpp) |
+
+| Software development | |
+| -- | :--: |
+| StockSphere | [Project](https://github.com/Diogo-Rodriigues/StockSphere) |
+| My Electronic Store | [Project](https://github.com/Diogo-Rodriigues/My_Eletronic_Store) |
+| Library Management System | [Project](https://github.com/Diogo-Rodriigues/LibraryManagementSystem-Cpp) |
 
 <h2> 💻Skills:</h2>
 
