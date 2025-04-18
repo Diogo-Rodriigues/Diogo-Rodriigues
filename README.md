@@ -2,6 +2,22 @@
 
 ###
 
+<div align="center">
+  <a href="mailto:dio.rodrigues.04.career@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/diogo--rodrigues/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="https://my-personal-website-ivory.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
+</div>
+
+###
+
 <h2>🙋‍♂️ About me:</h2>
 <p><b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Engineering Physics. I am currently in my last year with an average of 16 and throughout the course, I developed a passion for computer science and programming and since then, I have focused heavily on areas such as software development, cybersecurity, and AI/ML. </b></p>
 
