@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <a href="https://teusite.com" target="_blank">
+  <a href="https://my-personal-website-ivory.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
 </div>
