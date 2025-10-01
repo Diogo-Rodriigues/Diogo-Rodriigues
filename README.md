@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Diogo Rodrigues!<br>Software Engineer/AI & ML/Cybersecurity/HPC/Eletronics</h2>
+<h2 align="left">Hi, I'm Diogo Rodrigues!<br>Master’s Student in Informatics/Software Engineering | Specializing in Cybersecurity, Cryptography & AI/ML</h2>
 
 ###
 
@@ -19,7 +19,9 @@
 ###
 
 <h2>🙋‍♂️ About me:</h2>
-<p><b>I have always been passionate about physics and engineering, so I decided to combine the two and enrolled in a degree program in Engineering Physics. I am currently in my last year with an average of 16 and throughout the course, I developed a passion for computer science and programming and since then, I have focused heavily on areas such as software development, cybersecurity, and AI/ML. </b></p>
+<p><b>I’m a Master’s student in Informatics/Software Engineering at the University of Minho, specializing in "Cryptography and Cybersecurity", and "Inteligent Systems" (Artificial Intelligence/Machine Learning). I like to think I work at the crossroads of Software Engineering, AI/ML, and Information Security, building systems that are not only smart and scalable, but also hard to break (for attackers, not for me 😅).
+
+I aim to grow at the intersection of these fields, exploring topics such as Application Security, Penetration Testing, Threat Modeling, Secure Software Development, AI Security, Deep Learning, Natural Language Processing, Machine Learning, Data Science and DevOps. If a challenge mixes algorithms, design, security, and creativity, chances are I’ll want to dive right into it. </b></p>
 
 <h2>💼 Experience:</h2>
 <p><b>Recently I had the opportunity to join a LIP project in partnership with DGT for classifying very high spatial resolution images of mainland Portugal using machine learning techniques.</b></p>
