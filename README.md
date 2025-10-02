@@ -67,19 +67,6 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 |--|:--:|
 | 3D Fluid Simulation Optimization | [Project](https://github.com/Diogo-Rodriigues/Cpp-code-optimization-with-parallelism) |
 
-</td>
-    <td>
-
-<b>Electronics</b>
-
-| Project | Link |
-|--|:--:|
-| Manchester Bus Interface | [Project](https://github.com/Diogo-Rodriigues/Manchester-Based-Master-Slave-Bus-Interface-) |
-| Biopotential Amplifier | [Project](https://github.com/Diogo-Rodriigues/Instrumentation-Amplifier-for-measuring-biopotentials-generated-by-human-body) |
-| RLC Circuit Filter | [Project](https://github.com/Diogo-Rodriigues/The-RLC-circuit-as-a-frequency-filter-series-and-parallel-) |
-
-</td>
-  </tr>
 </table>
 
 
