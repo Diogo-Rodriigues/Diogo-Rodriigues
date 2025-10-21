@@ -29,7 +29,7 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 <p><b>Since October 2022, I have been a freelance tutor for secondary students studying Mathematics A and Physics and Chemistry A, which helped me a lot to create the spirit of creativity, sacrifice and responsibility.</b></p>
 
 <h2>🎓 Education:</h2>
-<b>I am currently in my last year with an average of 16 and throughout the course, I learned Python and its libraries for scientific calculations and data manipulation, C/C++, HPC with multithreading and GPU programming with CUDA, Data Structures and Algorithms, Haskell, computer architectures, Physics, Electronics, Mathematics, and above all I learned how to think.</b>
+<b>Work In Progress...</b>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
