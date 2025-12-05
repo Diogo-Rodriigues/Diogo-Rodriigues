@@ -23,13 +23,51 @@
 
 I aim to grow at the intersection of these fields, exploring topics such as Application Security, Penetration Testing, Threat Modeling, Secure Software Development, AI Security, Deep Learning, Natural Language Processing, Machine Learning, Data Science and DevOps. If a challenge mixes algorithms, design, security, and creativity, chances are I’ll want to dive right into it. </b></p>
 
-<h2>💼 Experience:</h2>
-<p><b>Recently I had the opportunity to join a LIP project in partnership with DGT for classifying very high spatial resolution images of mainland Portugal using machine learning techniques.</b></p>
-<p><b>I did some personal software development projects, completed the 'Google Cybersecurity Certification' and joined my university's CTF team having done a lot of CTF's and discussions on cybersecurity.</b></p>
-<p><b>Since October 2022, I have been a freelance tutor for secondary students studying Mathematics A and Physics and Chemistry A, which helped me a lot to create the spirit of creativity, sacrifice and responsibility.</b></p>
+## 💼 Experience
 
-<h2>🎓 Education:</h2>
-<b>Work In Progress...</b>
+### Checkmarx — Braga, Portugal  
+**Security Researcher** · *July 2025 – September 2025*  
+- **SAST & DAST Vulnerability Analysis:** Executed SAST and DAST scans to identify vulnerabilities and assess application security posture across multiple services.  
+- **OWASP Top 10 Triage & Root-Cause Investigation:** Worked with engineering teams to triage, reproduce, and analyse security issues, including OWASP Top 10 findings, improving the accuracy of vulnerability root-cause investigations.  
+- **Security Documentation & Knowledge Base Contribution:** Documented debugging outcomes, testing procedures, and patch validation results, enriching the internal security knowledge base and supporting continuous learning.  
+- **Patch & Hotfix Security Validation:** Supported secure software delivery by validating patches and hotfixes, helping ensure timely remediation and alignment with secure SDLC practices.  
+- **Security Tooling Improvement & Bug Resolution:** Improved internal security tools by identifying, fixing, and optimising more than 20 issues, directly contributing to tool stability and accuracy.  
+- **AppSec Collaboration & Continuous Learning:** Engaged in team discussions and knowledge-sharing sessions, expanding exposure to application security practices and emerging threats.  
+
+---
+
+### wUMrm — University Cybersecurity & CTF Team · Braga, Portugal  
+**Member** · *October 2024 – Present*  
+- **Web, Crypto & Binary Exploitation Practice:** Hands-on practice with web exploitation, reverse engineering, cryptography, binary exploitation, and forensics.  
+- **OWASP-Aligned Vulnerability Discovery:** Identified and exploited vulnerabilities aligned with the OWASP Top 10 and common application security flaws.  
+- **Technical Write-Ups & Knowledge Sharing:** Authored and shared detailed write-ups for the team, strengthening the team's internal knowledge base.  
+- **Team-Based Offensive Security Challenges:** Collaborated with teammates to solve real-world security challenges under strict time constraints, improving skills in problem-solving, communication, and teamwork.  
+- **Research on Emerging Threats & Security Tooling:** Researched and tested cutting-edge security tools and techniques, staying ahead of emerging threats.  
+
+---
+
+### LIP — DGT (Direção Geral do Território) · Remote, Portugal  
+**Machine Learning R&D** · *February 2025 – December 2025*  
+- **Deep Learning Research for Large-Scale Data Systems:** Developed and automated training/validation pipelines for CNN and Transformer-based segmentation models, including metric evaluation (IoU, Kappa, Confusion Matrix) and debugging workflows.  
+- **Data Processing/Automation & Integrity Engineering:** Designed scripts for preprocessing, verification, and consistency checks across multi-resolution geospatial datasets, ensuring reliability and reproducibility of results.  
+- **Error Analysis & Technical Reporting:** Investigated model failure modes through confusion-pattern analysis and presented findings in technical meetings, driving iterative improvements to model robustness.  
+- **Research Excellence Recognition:** Awarded the *Prémio UMinho de Iniciação na Investigação Científica 2025* (2025 UMinho Scientific Research Initiation Prize) for the work developed.  
+
+---
+
+
+## 🎓 Education
+### Universidade do Minho — Braga, Portugal  
+**Mestrado em Engenharia Informática (Master in Informatics Engineering)**  
+*Tracks: Cryptography & Cybersecurity · Intelligent Systems*  
+*September 2025 – June 2027*
+
+---
+
+### Universidade do Minho — Braga, Portugal  
+**BSc in Engineering Physics**  
+*Final Grade: 16/20*  
+*September 2022 – June 2025*
 
 <h2>👨‍💻 Personal Projects:</h2>
 
