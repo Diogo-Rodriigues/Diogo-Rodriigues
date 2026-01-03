@@ -69,6 +69,8 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 *Final Grade: 16/20*  
 *September 2022 – June 2025*
 
+---
+
 <h2>👨‍💻 Personal Projects:</h2>
 
 <table>
