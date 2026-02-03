@@ -81,26 +81,45 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
   <tr>
     <td>
 
-<b>Software development</b>
-
-| Project | Link |
-|--|:--:|
-| StockSphere | [Project](https://github.com/Diogo-Rodriigues/StockSphere) |
-| My Electronic Store | [Project](https://github.com/Diogo-Rodriigues/My_Eletronic_Store) |
-| My personal website | [Project](https://github.com/Diogo-Rodriigues/My_personal_website) |
-| Library Management System | [Project](https://github.com/Diogo-Rodriigues/LibraryManagementSystem-Cpp) |
-| How I learned SQL queries | [Project](https://github.com/Diogo-Rodriigues/How-I-learned-SQL-queries) |
-
-</td>
-    <td>
-
 <b>Cybersecurity</b>
 
 | Project | Link |
 |--|:--:|
 | CTF Write-ups | [Project](https://github.com/Diogo-Rodriigues/CTF-Write-ups) |
+| Seed Labs step-by-step resolution | [Project](https://github.com/Diogo-Rodriigues/Seed-Labs) |
 | Analyze Network Traffic with TCPDump | [Project](https://github.com/Diogo-Rodriigues/Analyze-Network-Traffic-with-TCPDump) |
 | TCP/IP traffic with Wireshark | [Project](https://github.com/Diogo-Rodriigues/TCP-IP-traffic-with-Wireshark) |
+
+</td>
+    <td>
+
+<b>Artificial intelligence and machine learning</b>
+
+| Project | Link |
+|--|:--:|
+| 1st Place Kaggle Competition | [Project](https://github.com/Diogo-Rodriigues/ML-Kaggle1) |
+| Theme Park Multi-Agent System | [Project](https://github.com/Diogo-Rodriigues/ASMa) |
+
+</td>
+    <td>
+
+<b>Software engineering</b>
+
+| Project | Link |
+|--|:--:|
+| PictuRAS-Image Prorcessing Cloud Platform | [Project](https://github.com/Diogo-Rodriigues/PictuRAS-Image_Processing_Cloud_Platform) |
+| OTT Multimedia Delivery Service | [Project](https://github.com/Diogo-Rodriigues/OTT-Multimedia-Delivery-Service) |
+| StockSphere | [Project](https://github.com/Diogo-Rodriigues/StockSphere) |
+| My Electronic Store | [Project](https://github.com/Diogo-Rodriigues/My_Eletronic_Store) |
+| My personal website | [Project](https://github.com/Diogo-Rodriigues/My_personal_website) |
+</td>
+    <td>
+
+<b>DevOps/Cloud</b>
+
+| Project | Link |
+|--|:--:|
+| AirTrail Cloud Deployment | [Project](https://github.com/Diogo-Rodriigues/DevOps-AirTrail) |
 
 </td>
     <td>
