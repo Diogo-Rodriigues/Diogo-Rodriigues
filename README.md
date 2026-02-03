@@ -36,6 +36,18 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 
 ---
 
+### LIP — DGT (Direção Geral do Território) · Remote, Portugal  
+**Machine Learning R&D** · *February 2025 – December 2025*  
+- **Deep Learning Models & Advanced Architectures:** Developed Deep Learning models (CNNs + Transformers) applied to semi-autonomous satellite image segmentation, integrating principles relevant to computer vision and NLP tasks based on modern architectures.  
+- **Data Processing/automation & Integrity Engineering:** Designed scripts for preprocessing, verification, and consistency checks across multi-resolution geospatial datasets, ensuring reliability and reproducibility of results.  
+- **Definition of Evaluation Metrics:** Automated training and validation pipelines, incorporating detailed analysis of loss curves and quantitative metrics (IoU, Kappa, Confusion Matrix), strengthening skills in systematic model evaluation and performance baseline establishment.
+- **Collaboration:**  I collaborated with other researchers on class definition, category merging, and auxiliary data integration, gaining experience in a multidisciplinary research environment with autonomy, critical thinking, and active contribution to applied innovation.
+- **Critical Analysis:** I conducted in-depth analyses of class confusion and identified causes of systematic errors, consolidating practice in model diagnosis, limitation identification, and failure mitigation.
+- **Scientific Documentation:** Production of technical documentation, reports, and presentations, ensuring clear communication of methodologies and results.
+- **Research Excellence Recognition:** Awarded the *Prémio UMinho de Iniciação na Investigação Científica 2025* (2025 UMinho Scientific Research Initiation Prize) for the work developed.  
+
+---
+
 ### wUMrm — University Cybersecurity & CTF Team · Braga, Portugal  
 **Member** · *October 2024 – Present*  
 - **Web, Crypto & Binary Exploitation Practice:** Hands-on practice with web exploitation, reverse engineering, cryptography, binary exploitation, and forensics.  
@@ -46,20 +58,12 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 
 ---
 
-### LIP — DGT (Direção Geral do Território) · Remote, Portugal  
-**Machine Learning R&D** · *February 2025 – December 2025*  
-- **Deep Learning Research for Large-Scale Data Systems:** Developed and automated training/validation pipelines for CNN and Transformer-based segmentation models, including metric evaluation (IoU, Kappa, Confusion Matrix) and debugging workflows.  
-- **Data Processing/Automation & Integrity Engineering:** Designed scripts for preprocessing, verification, and consistency checks across multi-resolution geospatial datasets, ensuring reliability and reproducibility of results.  
-- **Error Analysis & Technical Reporting:** Investigated model failure modes through confusion-pattern analysis and presented findings in technical meetings, driving iterative improvements to model robustness.  
-- **Research Excellence Recognition:** Awarded the *Prémio UMinho de Iniciação na Investigação Científica 2025* (2025 UMinho Scientific Research Initiation Prize) for the work developed.  
-
----
-
 
 ## 🎓 Education
 ### Universidade do Minho — Braga, Portugal  
 **Mestrado em Engenharia Informática (Master in Informatics Engineering)**  
 *Tracks: Cryptography & Cybersecurity · Intelligent Systems*  
+*Current Grade: 16/20*   
 *September 2025 – June 2027*
 
 ---
