@@ -25,6 +25,17 @@ I aim to grow at the intersection of these fields, exploring topics such as Appl
 
 ## 💼 Experience
 
+### Algoritmi - Amalia  — Braga, Portugal  
+**Machine Learning Research Fellow** · *March 2026 – May 2026*  
+- **Explainable AI Innovation:** Spearheaded research for the AMALIA project (Portuguese LLM) aimed at transforming opaque deep learning models into transparent, mathematically readable equations.  
+- **Model Parsing & Tensor Extraction:** Engineered automated data pipelines to parse trained PyTorch and TensorFlow models, systematically extracting and cataloging weight and bias tensors across complex network layers.  
+- **Symbolic Computing Engine:** Architected a conversion engine utilizing SymPy to translate neural architectures, matrix operations, and non-linear activations (ReLU, Sigmoid, Tanh) into accurate symbolic representations.  
+- **Algebraic Complexity Reduction:**  Developed and deployed advanced algebraic simplification algorithms to drastically reduce the complexity of raw model equations through systematic redundancy elimination and term grouping.  
+- **Novel Symbolic Weight Pruning:**  Pioneered magnitude-based pruning strategies at the symbolic phase, surgically removing statistically insignificant coefficients to enforce sparsity and optimize equations. 
+- **Interpretability & Optimization:** Successfully delivered refined, human-readable model equations that significantly enhance architectural transparency and computational efficiency without compromising predictive accuracy.
+
+---
+
 ### Checkmarx — Braga, Portugal  
 **Security Researcher** · *July 2025 – September 2025*  
 - **SAST & DAST Vulnerability Analysis:** Executed SAST and DAST scans to identify vulnerabilities and assess application security posture across multiple services.  
